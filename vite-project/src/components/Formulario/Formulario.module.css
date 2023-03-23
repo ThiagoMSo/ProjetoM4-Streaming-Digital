@@ -1,0 +1,10 @@
+.Container {
+    Margin-top: 200px;
+    color: white !important;
+    border-radius: 20px;
+    background: #101010 !important;
+    padding: 30px 15px 50px;
+}
+h2{
+    margin-bottom: 5px !important;
+}
