@@ -3,15 +3,46 @@
 <h3> ✨ Esse é um projeto desenvolvido durante o bootcamp da Resilia Educação. ✨</h3>
 
 <h2>📝 Sobre o projeto:</h2>
-<p>
-</p>
+<p>Uma empresa de mídia deseja implementar um serviço denominado Valdisnei, que disponibiliza seu catálogo de mídias, cujo o qual contém músicas, filmes, séries e demais mídias.</p>
 
 <h2>📚 O que é para fazer:</h2>
-<p><p>
+<p>Criar uma aplicação usando React + Spring Boot +
+Spring Data + MySQL que gerencia as mídias
+disponíveis num serviço de streaming, e também
+as bibliotecas dos usuários<p>
 
 <h2>📌 Pré-requisitos:</h2>
-<p><p>
+<p> São eles:
 
+   - O backend deve ser desenvolvido usando Spring Boot Web;
+
+   - O frontend deve ser desenvolvido usando React.<p>
+
+<h2>📌 Requisitos:</h2>
+<p>Criar as classes e objetos que representam as mídias do serviço de streaming, bem como as
+bibliotecas dos usuários;
+
+
+- O projeto deve ser desenvolvido na linguagem Java;
+
+- As seguintes classes devem ser implementadas:
+
+  * Música - duração, artista, notas (1 a 5 estrelas), e seus
+getters e setters;
+  *  Filme - duração, Tipo (curta ou longa), elenco (vetor de
+atores), diretor, produtor como atributos e seus getters e
+setters;
+
+- Artista - contendo, Nome, Data de Nascimento, Premiações e
+Gênero (masc/fem/ind), e seus getters e setters.
+
+  * Ator - formação (teatro, cinema, outros);
+  * Músico - atuação (instrumento ou vocal);
+
+- Biblioteca de Mídias - contendo as mídias, usuário, e playlists, junto com seus getters e setters, e método, tocar playlist.
+
+- Playlist - mídias, ordem de execução, mídia atual, com seus
+getters e setters, e métodos para próxima mídia, mídia anterior, misturar mídias<p>
 
 <h2>🖥️ Como executar o projeto?</h2>
 
@@ -19,7 +50,7 @@
 </p>
 <p></p>
 
-<h2>💰 Relação "é-um": </h2>
+<h2></h2>
 
 
 
